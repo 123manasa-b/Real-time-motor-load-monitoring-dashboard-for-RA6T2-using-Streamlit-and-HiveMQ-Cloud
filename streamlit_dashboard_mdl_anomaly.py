@@ -192,5 +192,4 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # ----------------- AUTO REFRESH -----------------
-time.sleep(1)
-st.experimental_rerun()
+st.rerun()
