@@ -193,5 +193,5 @@ st.markdown(f"""
 
 # ----------------- AUTO REFRESH -----------------
 # ----------------- AUTO REFRESH -----------------
-time.sleep(5)
+time.sleep(1)
 st.rerun()
